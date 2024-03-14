@@ -1,4 +1,4 @@
-Realizzção do primeiro desafio do curso Formação HTML Web Developer
+Realização do primeiro desafio do curso Formação HTML Web Developer
 
 Primeiros passos com HTML
 
